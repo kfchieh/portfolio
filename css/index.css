@@ -62,3 +62,13 @@
     width: 800px;
     background-color: #EFBF9C;
 }*/
+.card {
+    max-width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.allCards {
+    margin-left: 10%;
+}
