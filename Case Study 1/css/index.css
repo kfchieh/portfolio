@@ -1,0 +1,64 @@
+.hero {
+    padding-right: 100px;
+    height: 100vh;
+    align-content: flex-end;
+    width: 100vw;
+}
+
+
+.logo {
+    font-size: 60px;
+    color: black;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    margin-top: 15%;
+    margin-left: 15%;
+}
+
+.valueprop
+    {color: #F4AFAF;
+    font-family: 'Lato', sans-serif;
+    margin-left: 30%;
+    margin-top: 30px;
+    font-size: 35px;
+}
+    
+.titles {
+    font-family: 'Lato', sans-serif;
+    font-size: 24px;
+    color: #6E5353;
+    margin-left: 100px;
+}
+
+.paragraph
+    {font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 100px;
+    margin-bottom: 50px;
+}
+
+.linkedIcon {
+    margin-left: 25px;
+    margin-top: 41px;
+}
+
+.words {
+    font-size: 18px;
+    display: inline-flex;
+    margin: 10px;
+    float: right;
+    margin-right: 75px;
+    align-content: flex-start;
+}
+.home, .work, .about {
+    margin-right: 20px;
+    margin-top: 45px;
+}
+.bigGroup {
+    display: inline-block;
+}
+/*.line {
+    height: 3px;
+    width: 800px;
+    background-color: #EFBF9C;
+}*/
